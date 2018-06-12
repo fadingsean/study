@@ -6,7 +6,7 @@
 ## 二级标题
 ### 三级标题
 正文
-```Python
+```python
 def test():
     while True:
         print("hello")
